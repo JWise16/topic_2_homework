@@ -1,3 +1,4 @@
-** Checkout my flask app ! **
 
-<img src=img/app.png width=400px />
+# Flask and Docker tutorial
+
+<img src=app.png width=400px />
